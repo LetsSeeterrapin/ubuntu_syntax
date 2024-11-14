@@ -93,7 +93,7 @@ rm -r 폴더명
 # cp 복사대상 복사될 파일명
 cp first_file.txt second_file.txt
 
-# mv는 이동멸령어
+# mv는 이동명령어
 # mv 이동대상파일 이동될 파일명
 mv first_file.txt ../first_file.txt
 mv first_file.txt third_file.txt
